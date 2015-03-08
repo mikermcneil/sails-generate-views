@@ -1,7 +1,7 @@
 {
-  "name": "sails-generate-views",
+  "name": "treeline-generate-views",
   "version": "0.10.4",
-  "description": "Generate default views for Sails.",
+  "description": "Generate default views for Treeline.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
@@ -13,7 +13,7 @@
     "generate",
     "plugin"
   ],
-  "author": "balderdashy",
+  "author": "sgress454",
   "license": "MIT",
   "dependencies": {
     "lodash": ">=2.4.x",
